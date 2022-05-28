@@ -1,3 +1,5 @@
 #!/bin/bash
 
 echo "github 1st local line"
+echo "this is github public message 1"
+echo "Successfull"
